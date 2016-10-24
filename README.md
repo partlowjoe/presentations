@@ -1,2 +1,2 @@
 # presentations
-Random presentations I given for various conferences and organizations.
+Random presentations I've given for various conferences and organizations.
